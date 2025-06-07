@@ -49,7 +49,7 @@ Estoy estudiando para convertirme en **Full Stack Developer**, combinando mis co
 ---
 
 ### 📫 Contáctame
-- 📧 [tuemail@correo.com]
+- 📧 [avu11@protonmail.com]
 - 💼 [Mi LinkedIn](https://www.linkedin.com/in/josemtnezng/)
 
 ---
