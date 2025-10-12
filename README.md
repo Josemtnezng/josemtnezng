@@ -21,17 +21,17 @@
 
 ---
 
-### 🎵 Vibras Actuales
+### 🎵 // Vibras Actuales
 
 <div align="center">
   <a href="https://open.spotify.com/track/5v6gCeej2n10m2f22h9p6E" target="_blank">
-    <img src="https://novatorem-seven.vercel.app/api/spotify?uri=spotify:track:5v6gCeej2n10m2f22h9p6E&theme=vaporwave" alt="Spotify" />
+    <img src="https://img.shields.io/badge/Dead%20Sara%20-%20Heroes-FF71CE?style=for-the-badge&logo=spotify&logoColor=white&labelColor=1DB954" alt="Dead Sara - Heroes on Spotify"/>
   </a>
 </div>
 
 ---
 
-### 📬 Contacto
+### 📬 // Contacto
 
 <p align="center">
   <a href="https://www.linkedin.com/in/josemtnezng/" target="_blank">
@@ -44,7 +44,7 @@
 
 ---
 
-### 💾 Stack Tecnológico
+### 💾 // Stack Tecnológico
 
 <table>
   <tr>
@@ -95,12 +95,10 @@
 
 ---
 
-### 📈 Estadísticas de GitHub
+### 🐍 // Mis Contribuciones en Código
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Josemtnezng&show_icons=true&theme=vaporwave&count_private=true&hide_border=true&include_all_commits=true" alt="Estadísticas de GitHub de Jose" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Josemtnezng&layout=compact&theme=vaporwave&hide_border=true" alt="Lenguajes más usados por Jose" />
+  <img src="https://raw.githubusercontent.com/Josemtnezng/Josemtnezng/output/github-contribution-grid-snake-vaporwave.svg" alt="serpiente de github" />
 </div>
 
 ---
@@ -111,29 +109,4 @@
   <a href="https://paypal.me/josemtnezng" target="_blank" style="display: inline-block;">
     <img src="https://img.shields.io/badge/Cómprame_un_Fiji_Water-FF71CE.svg?style=for-the-badge&logo=paypal&logoColor=white" align="center" />
   </a>
-</div>
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Illustrator-FF71CE%3Fstyle%3Dfor-the-badge%26logo%3Dadobeillustrator%26logoColor%3Dwhite" alt="Illustrator"/>
-</p>
-</td>
-</tr>
-</table>
-
-📈 // Estadísticas de GitHub
-<div align="center">
-<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api%3Fusername%3DJosemtnezng%26show_icons%3Dtrue%26theme%3Dvaporwave%26count_private%3Dtrue%26hide_border%3Dtrue%26include_all_commits%3Dtrue" alt="Estadísticas de GitHub de Jose" />
-
-
-
-<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/top-langs/%3Fusername%3DJosemtnezng%26layout%3Dcompact%26theme%3Dvaporwave%26hide_border%3Dtrue" alt="Lenguajes más usados por Jose" />
-</div>
-
-<div align="center">
-<img src="https://www.google.com/search?q=https://komarev.com/ghpvc/%3Fusername%3Djosemtnezng%26style%3Dflat-square%26color%3D01CDFE" align="center" />
-
-
-
-
-<a href="https://www.google.com/search?q=https://paypal.me/josemtnezng" target="_blank" style="display: inline-block;">
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/C%C3%B3mprame_un_Fiji_Water-FF71CE.svg%3Fstyle%3Dfor-the-badge%26logo%3Dpaypal%26logoColor%3Dwhite" align="center" />
-</a>
 </div>
