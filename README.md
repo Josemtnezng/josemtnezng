@@ -10,7 +10,7 @@
 ---
 
 <p align="center">
-  🔭 Actualmente trabajando en <strong>Adhesivos Romero</strong>
+  🔭 Actualmente en busqueda de empleo.<strong></strong>
   <br>
   🌱 Aprendiendo <strong>TypeScript</strong> y <strong>Tailwind.css</strong>
   <br>
